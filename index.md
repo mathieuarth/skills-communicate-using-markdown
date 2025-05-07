@@ -22,3 +22,7 @@ dir
 REM this one is not known
 test
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
